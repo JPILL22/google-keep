@@ -95,14 +95,14 @@ input:focus {
     margin-left: 10px;
 }
 
-.settings-area {
+.settings-options {
     display: flex;
 }
 
-.profile-actions-area {
+.profile-options {
     display: flex;
 }
-.profile-actions-area .Menu {
+.profile-options .Menu {
     display: flex;
     justify-content: center;
     align-items: center;
